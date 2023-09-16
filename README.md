@@ -66,7 +66,7 @@
 
 
 
-### My Contribution Graph（Most of my contributions are on [Gitee](https://gitee.com/yuejia-lai)😭）
+### My Contribution Graph（Most of my contributions are on [Gitee](https://gitee.com/MindaRyn)😭）
 
 [![Yuejia-Lai's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yuejia-Lai&theme=github-compact&hide_border=true&area=true&hide_title=true)](http://www.blog.laiyuejia.cn)
 
