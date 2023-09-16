@@ -1,6 +1,6 @@
 
 
-## Hi,👋 I'm [Yuejia-Lai](http://www.blog.laiyuejia.cn)!
+## Hi,👋 I'm [MindaRyn](https://mindaryn1.github.io/)!
 
 **Anyway, let's start with a famous quote🤩：**
 
