@@ -1,7 +1,7 @@
 ## Hi,👋 I'm [MindaRyn](https://mindaryn1.github.io/)!
 <img align="right" src="https://count.getloli.com/get/@:MindaRyn1?theme=rule34">
 
-- :orange_book: 技术博客：https://MindaRyn.blog.csdn.net 
+- :orange_book: 技术博客：https://blog.csdn.net/MindaRyn_?type=blog 
  
 - :hammer:  个人网站：http://www.mindaryn.icu
  
