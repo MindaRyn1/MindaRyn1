@@ -25,4 +25,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=MindaRyn1&repo=PartnerMatching-backend)](https://github.com/MindaRyn1/PartnerMatching-backend)
 <br><br><br>
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=MindaRyn1&repo=PartnerMatching-frontend)](https://github.com/MindaRyn1/PartnerMatching-frontend)
+<br><br><br>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=MindaRyn1&repo=oj-backend)](https://github.com/MindaRyn1/oj-backend)
+<br><br><br>
