@@ -1,5 +1,5 @@
 
-
+<img align="right" src="https://count.getloli.com/get/@:MindaRyn1?theme=rule34">
 ## Hi,👋 I'm [MindaRyn](https://mindaryn1.github.io/)!
 
 **Anyway, let's start with a famous quote🤩：**
