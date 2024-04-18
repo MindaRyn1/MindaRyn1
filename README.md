@@ -1,11 +1,11 @@
 ## Hi,👋 I'm [MindaRyn](https://mindaryn1.github.io/)!
 <img align="right" src="https://count.getloli.com/get/@:MindaRyn1?theme=rule34">
 
-- :orange_book: 技术博客：https://neowho.blog.csdn.net
+- :orange_book: 技术博客：https://MindaRyn.blog.csdn.net 
  
-- :hammer:  个人网站：http://www.neowho.cc
+- :hammer:  个人网站：http://www.mindaryn.icu
  
-- :meat_on_bone: 极客官网：http://www.jkvipedu.com
+- :meat_on_bone: Gitee官网：https://gitee.com/MindaRyn
 
 **Anyway, let's start with a famous quote🤩：**
 
@@ -25,7 +25,4 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=MindaRyn1&repo=PartnerMatching-backend)](https://github.com/MindaRyn1/PartnerMatching-backend)
 <br><br><br>
-[![](https://github-readme-stats.vercel.app/api/pin/?username=MindaRyn1&repo=PartnerMatching-frontend)](https://github.com/MindaRyn1/PartnerMatching-frontend)
-<br><br><br>
-[![](https://github-readme-stats.vercel.app/api/pin/?username=MindaRyn1&repo=oj-backend)](https://github.com/MindaRyn1/oj-backend)
-<br><br><br>
+
