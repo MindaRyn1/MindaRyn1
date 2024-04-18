@@ -18,7 +18,7 @@
 ### What can I do🤔
 
 ### **技术栈:**
-
+#### **前端**
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
 <a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
@@ -31,25 +31,17 @@
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
 
+#### **后端**
 
-**Languages and Frameworks**
-
-<div align="center">
 <img src="https://img.shields.io/badge/-Java-important?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Spring-brightgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Spring%20MVC-9cf?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Spring%20Cloud-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-MyBatis-red?style=for-the-badge" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindaRyn1&layout=compact"/>
-</div>
 
----
-
-**Components and middleware**
+#### **中间件**
 
 <div align="center">
 <img src="https://img.shields.io/badge/-RabbitMQ%20%26%20RocketMQ%20%26%20Kafka-ff69b4" />
@@ -67,7 +59,7 @@
 
 ---
 
-**Other**
+#### **其他**
 
 <div align="center">
 <img src="https://img.shields.io/badge/-SQL-yellowgreen"/>
@@ -80,7 +72,12 @@
 
 ---
 
+### 🖥️ 开源项目
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=MindaRyn1&repo=oj-backend)](https://github.com/MindaRyn1/oj-backend)
+<br><br><br>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=MindaRyn1&repo=PartnerMatching-backend)](https://github.com/MindaRyn1/PartnerMatching-backend)
+<br><br><br>
 
 ### My Contribution Graph（Most of my contributions are on [Gitee](https://gitee.com/MindaRyn)😭）
 
